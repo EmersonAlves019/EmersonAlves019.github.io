@@ -1,0 +1,26 @@
+{
+  "name": "loop",
+  "version": "1.0.0",
+  "description": "O inglês é imprecindível na vida da pessoa programadora, e tendo em vista que, para superar a barreira de um novo idioma é preciso expandir o vocabulário criarmos o **LOOP** uma aplicação web que gera cards em Inglês a partir de um click.",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmersonAlves019/LOOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmersonAlves019/LOOP/issues"
+  },
+  "homepage": "https://github.com/EmersonAlves019/LOOP#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
